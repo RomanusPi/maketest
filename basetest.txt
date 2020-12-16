@@ -1,0 +1,68 @@
+#s     Test 1 Sieci Komputerowe
+#c   q-Question;p-Positive Answers ; n- Negative Answer; s-Start; e- End;c-Commantary
+#q     Co to jest adres IP?
+#q     Czym okreslamy adres sieciowy komputera?
+#p     cztery 256 bajtowe liczby
+#p     sekwencja typu 123.23.12.32   
+#n     sekwencja typu 88.444.3333.3434
+#n     nazwa komputera z liter
+#n     pojedyncza liczba 8 cyfrowa
+#n     ciag liter
+#q     Odwzorowaniem literowych nazw w sieci zajmuje sie:   
+#q     Ktora czynność odwzorowania odbywa sie w poziomie aplikacji modelu TCP/IP?
+#p     NetBIOS
+#p     Winsock
+#n     maska sieci
+#n     Mac adres
+#n     ARP
+#n     DHCP
+#n     Alpha 
+#q     Do czego uzywany jest protokół ARP po określeniu adresu IP danej stacji?
+#q     Co moze zwracac protokół ARP?
+#q     Do czego uzywany jest protokół z warstwy sieciowej?
+#p     Okreslenie adresu MAC
+#n     uzyskania numeru portu
+#n     lockalhost
+#n     uzyskania hasla roota
+#n     ustalenia priorytetow danych 
+#q     Który protokół realizuje dostarczanie danych bez gwarancji odbioru?
+#q     Który protokół warstwy transprotowej generuje zazwyczaj mniejszy ruch w sieci niz TCP?
+#p     UDP
+#p     User Datagram Protocol
+#n     NET 
+#n     TFTP
+#n     DNS
+#n     SNMP
+#n     CheckSum
+#q     Ktore uslugi są niedostepne gdy korzystamy z protokołu TCP?
+#p     Multiemisja
+#p     Rozgłaszanie
+#n     CheckSum
+#n     Numer portu 
+#n     Rozmiar pakietu
+#q     Proces prowadzacy do okreslenia adresu IP na podstawie nazwy stacji zaczyna sie od :?
+#q     Proces ustalania adresu na podstawie DNS zaczyna sie od: ?
+#p     Sprawdzenia czy szukana nazwa jest  stacja na ktorej pracujesz
+#n     Sprawdzenia czy szukana nazwa wystepuje w pliku HOSTS       
+#n     Czy serwer DNS posiada wpis odpowiadajacy poszukiwanej nazwie stacji
+#n     Czy nazwa stacji zostala zarejestrowana na serwerze WINS
+#n     Czy nazwa stacji moze zostac owzorowana za pośrednictwem lokalnego rozgloszenia
+#n     Czy nazwa stacji zostala zapisana w pliku LMHOSTS
+#q     Protokół RIPv1 charaktreryzuje sie :
+#p     zachowywaniem informacji jedynie o najlepszej trasie
+#p     porozumiewaniem sie routerow za pomoca protokołu UDP z wykorzystaniem portu 520
+#p     Brakiem uwzglednienia szybkosci lacza przy wyborze trasy
+#n     Wymienianiem informacji miedzy routerami znacznie czesciej niz 30s     
+#n     Wysylaniem niepelnej listy identyfikatorow sieci do wszystkich przyłaczy routera
+#n     Liczbą sieci opisywanych w pojedynczym komunikacie RIP wiekszą od 25
+#n     Informacjami wysylanymi do sasiednich routerow zawierajacych takie dane jak identyfikator sieci, liczba przesków oraz szybkość łacza. 
+#q     PRotokół OSPF charakteryzuje sie: 
+#p     Podzieleniem i przypisaniem kazdemu obszarowi sieci numeru sieci nie muszacym jednak pokrywac sie z faktycznymi adresami sieci
+#p     Przesylaniem informacji o koszcie dostepu do kazdej sieci
+#n     Rozsylaniem pelnej informacji o segmencie sieci  z danego obszaru do całej sieci 
+#n     Posiadaniem jednej bazy LSDB dla różnych  przylaczy
+#n     STanem konwergencji gdy 90% routerow danego obszaru  posiada taką samą baze wiedzy LSDB 
+#e
+
+
+

@@ -1,0 +1,57 @@
+     Test 1 Sieci Komputerowe
+
+1)     Czym okreslamy adres sieciowy komputera?
+
+a)     sekwencja typu 88.444.3333.3434
+b)     pojedyncza liczba 8 cyfrowa
+c)     sekwencja typu 123.23.12.32   
+d)     ciag liter
+
+2)     Ktora czynność odwzorowania odbywa sie w poziomie aplikacji modelu TCP/IP?
+
+a)     Mac adres
+b)     ARP
+c)     Winsock
+d)     DHCP
+
+3)     Do czego uzywany jest protokół ARP po określeniu adresu IP danej stacji?
+
+a)     uzyskania numeru portu
+b)     ustalenia priorytetow danych 
+c)     Okreslenie adresu MAC
+d)     lockalhost
+
+4)     Który protokół realizuje dostarczanie danych bez gwarancji odbioru?
+
+a)     CheckSum
+b)     DNS
+c)     User Datagram Protocol
+d)     TFTP
+
+5)     Ktore uslugi są niedostepne gdy korzystamy z protokołu TCP?
+
+a)     CheckSum
+b)     Multiemisja
+c)     Rozmiar pakietu
+d)     Numer portu 
+
+6)     Proces prowadzacy do okreslenia adresu IP na podstawie nazwy stacji zaczyna sie od :?
+
+a)     Czy nazwa stacji zostala zapisana w pliku LMHOSTS
+b)     Sprawdzenia czy szukana nazwa wystepuje w pliku HOSTS       
+c)     Czy nazwa stacji moze zostac owzorowana za pośrednictwem lokalnego rozgloszenia
+d)     Sprawdzenia czy szukana nazwa jest  stacja na ktorej pracujesz
+
+7)     Protokół RIPv1 charaktreryzuje sie :
+
+a)     Wysylaniem niepelnej listy identyfikatorow sieci do wszystkich przyłaczy routera
+b)     Informacjami wysylanymi do sasiednich routerow zawierajacych takie dane jak identyfikator sieci, liczba przesków oraz szybkość łacza. 
+c)     Wymienianiem informacji miedzy routerami znacznie czesciej niz 30s     
+d)     porozumiewaniem sie routerow za pomoca protokołu UDP z wykorzystaniem portu 520
+
+8)     PRotokół OSPF charakteryzuje sie: 
+
+a)     Posiadaniem jednej bazy LSDB dla różnych  przylaczy
+b)     Rozsylaniem pelnej informacji o segmencie sieci  z danego obszaru do całej sieci 
+c)     STanem konwergencji gdy 90% routerow danego obszaru  posiada taką samą baze wiedzy LSDB 
+d)     Podzieleniem i przypisaniem kazdemu obszarowi sieci numeru sieci nie muszacym jednak pokrywac sie z faktycznymi adresami sieci
