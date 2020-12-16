@@ -1,2 +1,2 @@
 # maketest
-make new  test from source test
+make new  test from base test
